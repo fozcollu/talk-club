@@ -35,10 +35,9 @@ const client: IAgoraRTCClient = AgoraRTC.createClient({
 ```
 
 6-) [Agora.io](http://agora.io) dan yeni bir kanal & token oluşturulur.
+![image](https://user-images.githubusercontent.com/29051356/116880462-b928e100-ac2a-11eb-93f6-f6de0e08ad0e.png)
+![image](https://user-images.githubusercontent.com/29051356/116880387-9bf41280-ac2a-11eb-8e58-69da48f4d528.png)
 
-![Clubhouse%20066ef23d4c3141c1976f752d6f392dca/Untitled.png](Clubhouse%20066ef23d4c3141c1976f752d6f392dca/Untitled.png)
-
-![Clubhouse%20066ef23d4c3141c1976f752d6f392dca/Untitled%201.png](Clubhouse%20066ef23d4c3141c1976f752d6f392dca/Untitled%201.png)
 
 7-) AppId,channelName,token kullanararak oluşturduğumuz client ile channel'e katılalım
 
